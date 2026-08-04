@@ -7,7 +7,7 @@
         Ola("João");
 
         Console.WriteLine("a soma de 5 e 3 é: " + Calcular(5,3,"+"));
-        Console.WriteLine("a subtração de 5 e 3 é: " + Calcular(5,3,"-"));
+        Console.WriteLine("a subtração de 5 e 3 é: " + Calcular(5,3,""));
     }
     // Função sem retorno e sem parametros
     // public static void Ola()
