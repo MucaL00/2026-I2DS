@@ -8,32 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SP-Skills\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/DS1/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-01\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "/Users/DS1/IDS2/2026-I2DS/Aula-01/PrimeiroProjeto/PrimeiroProjeto.csproj",
       "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-01\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-      "packagesPath": "C:\\Users\\SP-Skills\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SP-Skills\\Documents\\2026-I2DS\\Aula-01\\PrimeiroProjeto\\obj\\",
+      "projectPath": "/Users/DS1/IDS2/2026-I2DS/Aula-01/PrimeiroProjeto/PrimeiroProjeto.csproj",
+      "packagesPath": "/Users/DS1/.nuget/packages/",
+      "outputPath": "/Users/DS1/IDS2/2026-I2DS/Aula-01/PrimeiroProjeto/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\SP-Skills\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/DS1/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -75,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
