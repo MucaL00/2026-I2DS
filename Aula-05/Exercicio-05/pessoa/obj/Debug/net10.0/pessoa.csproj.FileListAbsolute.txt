@@ -1,0 +1,15 @@
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/bin/Debug/net10.0/pessoa
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/bin/Debug/net10.0/pessoa.deps.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/bin/Debug/net10.0/pessoa.runtimeconfig.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/bin/Debug/net10.0/pessoa.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/bin/Debug/net10.0/pessoa.pdb
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.AssemblyInfoInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.AssemblyInfo.cs
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.csproj.CoreCompileInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.sourcelink.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/refint/pessoa.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.pdb
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/pessoa.genruntimeconfig.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-05/pessoa/obj/Debug/net10.0/ref/pessoa.dll
